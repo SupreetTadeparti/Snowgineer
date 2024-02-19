@@ -1,0 +1,23 @@
+<svg id="ejpulCcSiq71" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 600" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <g transform="translate(.000001 0.000001)">
+    <path d="M358.672461,322.402213L521.05887,372.184907L358.672461,322.402213Z" transform="matrix(.737754-.67507 0.67507 0.737754-143.411306 363.561918)" fill="none" stroke="#cb6b55" stroke-width="5" />
+    <path d="M492.252669,286.391574c-5.509105,0,0-18.363685,0-18.363685s5.509105,18.363685,0,18.363685Z" transform="matrix(-.101537 0.994832-1.823577-.186123 1062.301623-149.936585)" fill="#cb6b55" stroke-width="1.2" />
+    <path d="M492.252669,286.391574c-5.509105,0,0-18.363685,0-18.363685s5.509105,18.363685,0,18.363685Z" transform="matrix(.57342 0.819261-1.501748 1.051109 639.033009-417.417596)" fill="#cb6b55" stroke-width="1.2" />
+    <path d="M492.252669,286.391574c-5.509105,0,0-18.363685,0-18.363685s5.509105,18.363685,0,18.363685Z" transform="matrix(1 0 0 1.833051 0-236.07854)" fill="#cb6b55" stroke-width="1.2" />
+  </g>
+  <ellipse rx="112.603714" ry="112.585" transform="translate(307.704465 476.472791)" fill="#fff" stroke="#cdcbcb" stroke-width="1.8" />
+  <ellipse rx="87.5" ry="87.119716" transform="translate(307.704465 342.349966)" fill="#fff" stroke="#cdcbcb" stroke-width="1.8" />
+  <ellipse rx="65" ry="65" transform="translate(307.704465 216.583891)" fill="#fff" stroke="#cdcbcb" stroke-width="1.8" />
+  <path d="M320.059517,226.36061l61.234798,12.329154c0,0-43.727399,1.726082-62.467713,2.465831l1.232915-14.794985Z" fill="#e69033" stroke-width="1.2" />
+  <ellipse rx="10" ry="10" transform="translate(297.704465 206.583891)" fill="#141414" stroke-width="0" />
+  <ellipse rx="10" ry="10" transform="translate(345.648085 206.583891)" fill="#141414" stroke-width="0" />
+  <g transform="matrix(-.762058-.647509 0.647509-.762058 306.880869 839.161097)">
+    <path d="M358.672461,322.402213L521.05887,372.184907L358.672461,322.402213Z" transform="matrix(.544134-.497901 0.555873 0.607489-.192891 323.999356)" fill="none" stroke="#cb6b55" stroke-width="5" />
+    <g transform="matrix(.982034 0.188703-.188703 0.982034 59.553949-85.710375)">
+      <path d="M492.252669,286.391574c-5.509105,0,0-18.363685,0-18.363685s5.509105,18.363685,0,18.363685Z" transform="matrix(-.101537 0.994832-1.823577-.186123 1062.155446-146.491374)" fill="#cb6b55" stroke-width="1.2" />
+      <path d="M492.252669,286.391574c-5.509105,0,0-18.363685,0-18.363685s5.509105,18.363685,0,18.363685Z" transform="matrix(.57342 0.819261-1.501748 1.051109 638.886832-413.972385)" fill="#cb6b55" stroke-width="1.2" />
+      <path d="M492.252669,286.391574c-5.509105,0,0-18.363685,0-18.363685s5.509105,18.363685,0,18.363685Z" transform="matrix(1 0 0 1.833051-.146177-232.633329)" fill="#cb6b55" stroke-width="1.2" />
+    </g>
+  </g>
+  <path d="M301.208588,249.664205c1.186737,2.109652,4.258269,4.58894,6.495877,5.566045c0,0,5.563431,3.18933,12.871676,3.18933c4.106238.247593,11.420028-1.608464,15.071943-3.189332" transform="translate(.000001 0)" fill="none" stroke="#000" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
